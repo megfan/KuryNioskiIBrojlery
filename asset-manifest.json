@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KuryNioskiIBrojlery/static/css/main.073c9b0a.css",
-    "main.js": "/KuryNioskiIBrojlery/static/js/main.e57ed6cd.js",
+    "main.css": "/KuryNioskiIBrojlery/static/css/main.7665ca6f.css",
+    "main.js": "/KuryNioskiIBrojlery/static/js/main.214b4568.js",
     "static/js/787.220bb039.chunk.js": "/KuryNioskiIBrojlery/static/js/787.220bb039.chunk.js",
-    "static/media/logo.svg": "/KuryNioskiIBrojlery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Ch1.jpg": "/KuryNioskiIBrojlery/static/media/Ch1.ed92079d3211fd5249ee.jpg",
     "index.html": "/KuryNioskiIBrojlery/index.html",
-    "main.073c9b0a.css.map": "/KuryNioskiIBrojlery/static/css/main.073c9b0a.css.map",
-    "main.e57ed6cd.js.map": "/KuryNioskiIBrojlery/static/js/main.e57ed6cd.js.map",
+    "main.7665ca6f.css.map": "/KuryNioskiIBrojlery/static/css/main.7665ca6f.css.map",
+    "main.214b4568.js.map": "/KuryNioskiIBrojlery/static/js/main.214b4568.js.map",
     "787.220bb039.chunk.js.map": "/KuryNioskiIBrojlery/static/js/787.220bb039.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e57ed6cd.js"
+    "static/css/main.7665ca6f.css",
+    "static/js/main.214b4568.js"
   ]
 }
